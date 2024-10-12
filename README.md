@@ -1,0 +1,2 @@
+# Randomized-Controlled-Trial-RCT-Analysis-on-Synthetic-Music-Streaming-Data
+This project simulates user behavior on a music streaming platform and evaluates the impact of a marketing campaign using a Randomized Controlled Trial (RCT). By creating a synthetic dataset, the analysis explores how campaign exposure affects user engagement, measured through time spent on the platform and user retention rates.
